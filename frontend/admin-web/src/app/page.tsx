@@ -192,7 +192,7 @@ export default function HomePage() {
             </div>
             <span className="text-[13px] font-bold text-slate-400">© 2026 UNIFY - Premium Society Software</span>
           </div>
-          <span className="text-[13px] font-bold text-slate-400">By Saniya Fathima</span>
+          <span className="text-[13px] font-bold text-slate-400">By Mohammed Faiz Ahmed</span>
         </div>
       </footer>
 
